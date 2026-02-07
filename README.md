@@ -38,6 +38,7 @@ Este proyecto es una solución integral para la conversión de divisas que va m�
 │
 ├── historial_conversiones.csv  # Base de datos histórica (generada automáticamente).
 └── README.md             # Documentación.
+```
 
 ## 📊 Diccionario de Datos (Historial)
 
