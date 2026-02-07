@@ -84,6 +84,19 @@ El archivo `analisis.py` realiza un proceso **ETL** simplificado para transforma
 
 ---
 
+## 🚀 Roadmap de Optimizaciones
+
+Para escalar este proyecto y convertirlo en una herramienta de grado industrial, se han planteado las siguientes mejoras técnicas:
+
+- [ ] **Migración de Persistencia:** Sustituir el archivo CSV por una base de datos **SQLite** o **PostgreSQL** para mejorar la integridad de los datos, evitar la redundancia y permitir consultas complejas.
+- [ ] **Interfaz Gráfica (GUI/Web):** Desarrollar un frontend sencillo utilizando **FastAPI** o **Flask** para permitir que usuarios no técnicos realicen conversiones desde un navegador de forma intuitiva.
+- [ ] **Análisis de Series Temporales:** Implementar gráficos de líneas que muestren la fluctuación histórica de una moneda específica a lo largo de un periodo de tiempo, permitiendo un análisis de tendencias más profundo.
+- [ ] **Programación Asíncrona:** Refactorizar el consumo de la API utilizando `aiohttp` o `httpx` para mejorar el rendimiento del sistema al realizar múltiples peticiones simultáneas.
+- [ ] **Pruebas Unitarias y de Integración:** Implementar una suite de pruebas con `pytest` para garantizar que la lógica de conversión y la conexión con la API se mantengan robustas ante actualizaciones.
+- [ ] **Contenedorización:** Crear un `Dockerfile` para facilitar el despliegue del entorno de desarrollo y asegurar la portabilidad del sistema en cualquier sistema operativo.
+
+---
+
 ## 👤 Autor
 
 **Josué Gabriel Giraldo Suárez**
