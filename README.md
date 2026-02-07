@@ -87,11 +87,6 @@ El archivo `analisis.py` realiza un proceso **ETL** simplificado para transforma
 ## 👤 Autor
 
 **Josué Gabriel Giraldo Suárez**
-* **Ingeniero de Sistemas (8vo semestre)** - Universidad Nacional Abierta y a Distancia (UNAD).
-* **Técnico Laboral por Competencias en Programación de Software** - Campuslands S.A.S BIC.
-* **LinkedIn:** [linkedin.com/in/josuegiraldos](https://www.linkedin.com/in/josuegiraldos)
-* **GitHub:** [github.com/josuegiraldos](https://github.com/josuegiraldos)
-* **Email:** jggiraldosuarez2411@gmail.com
 
 ---
 *Este proyecto forma parte de un portafolio profesional enfocado en ingeniería de datos, integración de APIs y automatización de procesos.*
